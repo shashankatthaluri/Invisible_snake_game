@@ -40,6 +40,39 @@ Score tracking and a congratulatory scorecard at the end
 - Python 3.x
 - colorama: Install using pip install colorama
 
+## Game output
+
+Controls:
+- Press 'w' to move up
+- Press 's' to move down
+- Press 'a' to move left
+- Press 'd' to move right
+- Press 'q' to quit
+
+Score: 8
+
+ █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █
+ █                                                                       █
+ █                                                                       █
+ █                                                                       █
+ █                                                                       █
+ █                                                                       █ 
+ █                                                                       █ 
+ █                                                  ●  ●  ●  ●           █ 
+ █                                                  ●  ●  ⦿  ●           █ 
+ █                                                           ●           █ 
+ █                                                           ●           █ 
+ █                                                           ●           █ 
+ █                                                        🍎              █ 
+ █                                                                       █ 
+ █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █  █ 
+
+Game Over! You hit the wall or yourself.
+
+-------- Scorecard --------
+🎉 Congratulations! You scored 8 points. 🎉
+🌟 Well done! You're becoming a skilled snake player. 🌟
+
 ## Acknowledgments
 This project is inspired by the classic Snake Game.
 Feel free to contribute or customize the game further! If you encounter any issues or have suggestions, please open an issue.
