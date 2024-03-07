@@ -41,7 +41,7 @@ Score tracking and a congratulatory scorecard at the end
 - colorama: Install using pip install colorama
 
 ## Game output
-
+```bash
 Controls:
 - Press 'w' to move up
 - Press 's' to move down
@@ -72,6 +72,7 @@ Game Over! You hit the wall or yourself.
 -------- Scorecard --------
 🎉 Congratulations! You scored 8 points. 🎉
 🌟 Well done! You're becoming a skilled snake player. 🌟
+```
 
 ## Acknowledgments
 This project is inspired by the classic Snake Game.
