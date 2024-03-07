@@ -17,7 +17,7 @@ This simple console-based Snake Game is written in Python. It provides an engagi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/shashankatthaluri/Invisible_snake_game/snake-game.git
    ```
 2. Navigate to the project directory:
 
@@ -80,4 +80,8 @@ Feel free to contribute or customize the game further! If you encounter any issu
 
 Enjoy the game! 🐍🕹️
 
-**Note:** you might flickering while playing. Its common in console based games you can modify the speed if you needed. Feel free to modify and play the game!! 
+**Note:** 
+- you can add poison 🌶 where the snake need to escape. This is to just confuse the player. 
+- you might flickering while playing. Its common in console based games you can modify the speed if you needed.
+
+Feel free to modify and play the game!! 
